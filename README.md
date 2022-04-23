@@ -1,3 +1,7 @@
+QUICK NOTE BY THE FORK OWNER: This branch is literally just for me to mess with the source code of Swift Engine, but also keep a branch available with the original source of the parent repo in case I fuck up badly enough that I need to fix it with the original.
+
+***
+
 -# Friday Night Funkin Swift Engine
 
 ///////////////////////////
